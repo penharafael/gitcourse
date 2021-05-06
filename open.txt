@@ -1,3 +1,5 @@
 Este é o conteúdo do curso.
 
 Mudança pelo desktop
+
+Mudança de outro usuário
